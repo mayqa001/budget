@@ -1,4 +1,4 @@
-# PWA-online-offline-budget-tracker
+# budget-tracker
 A PWA (progressive web application) that allows the user to add/deduct their deposit and expenses to their budget with/without a connection. 
 
 
@@ -34,25 +34,11 @@ Giving users a fast and easy way to track their money is important, but allowing
 * MongoDB (mLab)
 * Heroku (Application deployment )
 
-## Screenshots
-
-![online](public/assets/PWA-online.png)|![offline](public/assets/PWA-offline.png)
-
-## Useful resources
-* [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
-* [MongoDB Website](https://www.mongodb.com/)
-* [Robo 3T Website](https://robomongo.org/download)
-* [MongoJS Documentation](https://www.npmjs.com/package/mongojs)
-* [Mongoose Documentation](http://mongoosejs.com/docs/guide.html)
-* [MongoDB for your Heroku NodeJS app](https://www.youtube.com/watch?v=GDqtv1eGGpA)
-
-
-
 ## Questions
 * For collaboration and questions, please reach out to carefree2706@gmail.com
 
-* Contact me via Github [carefree2706@gmail.com](http://github.com/carefree2706@gmail.com)
+* Contact me via Github mayqa001
 
 
 
-- Launch the application <a href="https://floating-bayou-42669.herokuapp.com/" target="_blank"> > https://floating-bayou-42669.herokuapp.com/  < </a>
+- Launch the application https://budgetandy.herokuapp.com/
